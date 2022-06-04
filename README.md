@@ -1,6 +1,6 @@
 # init_state
 
-A new Flutter project.
+Hello There, you might read this repository
 
 ## Getting Started
 
